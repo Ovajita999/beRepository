@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kgtsosi
+ *
+ */
+module MyFirstProject {
+}
